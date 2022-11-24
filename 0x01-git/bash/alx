@@ -1,2 +1,2 @@
-ALX School
-The school is open!
+#!/bin/bash
+echo "ALX School"
